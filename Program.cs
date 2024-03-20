@@ -13,12 +13,13 @@ public class Penjumlahan<IN>
         dynamic c1 = C;
         Console.WriteLine(a1 + b1 + c1);
     }
-     class simpleDatabase<T>
-    {
-        private List<T> storedData;
-        private List<DateTime> inputDates;
+}
+public class simpleDatabase<T>
+{ 
+    private List<T> storedData;
+    private List<DateTime> inputDates;
 
-        public simpleDatabase()
+    public simpleDatabase()
         {
             this.storedData = new List<T>();
             this.inputDates = new List<DateTime>();
@@ -36,8 +37,7 @@ public class Penjumlahan<IN>
                 Console.WriteLine("Data " + (i + 1) + " Berisi data: " + this.storedData[i] + ", yang disimpan pada waktu UTC: " + this.inputDates[i]+" AM");
             }
         }
-    }
-}
+  }
 
 class Program
 {

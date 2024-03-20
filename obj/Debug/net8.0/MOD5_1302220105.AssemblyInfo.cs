@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MOD5_1302220105")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8296c9513ab822aa5ac13237325848309ae868e7")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eabeb5af597e35187fb2b3298836b14c43b66849")]
->>>>>>> implementasi-generic-class
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df4cb2190364f09eb5e19c0f681e80d90c1285ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("MOD5_1302220105")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MOD5_1302220105")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
